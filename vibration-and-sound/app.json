@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "vibration-and-sound",
+    "slug": "snack-00877a40-9423-4865-b522-e0f624b9c65f",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "You can use the react-native-haptic-feedback library for haptic feedback and the react-native-sound library for playing sounds"
+  }
+}
